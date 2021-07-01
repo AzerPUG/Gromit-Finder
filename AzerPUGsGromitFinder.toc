@@ -1,8 +1,8 @@
-## Interface: 90005
+## Interface: 90100
 ## Title: |cFF00FFFFAzerPUG's|r |cFFFF00FFGromit Finder|r
 ## Author: Tex & AzerPUG Gaming Community (www.azerpug.com/discord)
 ## Notes: |cFF00FFFFAzerPUG's|r |cFFFF00FFGromit Finder|r helps you with the utility the Swagsnout Gromit gives you if you sumon it!
-## Version: SL 9.0.5 (For actual addon version, check GromitFinder.lua)
+## Version: SL 9.1 (For actual addon version, check GromitFinder.lua)
 ## SavedVariables: AZPGFSomething
 
 GromitFinder.lua
