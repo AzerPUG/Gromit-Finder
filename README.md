@@ -13,24 +13,13 @@
 
 [![](https://github.com/AzerPUG/AZP-Files/raw/main/Panels/YouTube%20Panel%20Small.png "")](http://www.azerpug.com/youtube "") 
 [![](https://github.com/AzerPUG/AZP-Files/raw/main/Panels/Twitter%20Panel%20Small.png "")](http://www.azerpug.com/twitter "") 
-[![](https://github.com/AzerPUG/AZP-Files/raw/main/Panels/Instagram%20Panel%20Small.png "")](http://www.azerpug.com/instagram "") 
+[![](https://github.com/AzerPUG/AZP-Files/raw/main/Panels/Instagram%20Panel%20Small.png "")](http://www.azerpug.com/instagram "")  
 
 # Description and Features
-***Description and Features Here***  
-
-# Optional Core
-All AzerPUG AddOns are stand-alone and as lightweight as possible.  
-However, some very resource intensive things with AddOns are really nice to have.  
-In order to provide these extra things, like optimization or combining the AddOns into one bigger one, we have an optional, combined AddOn.  
-Anyone who uses several of our AddOns, is strongly suggested to use the [AzerPUG's Core](https://www.curseforge.com/wow/addons/azerpugs-core) as well.  
-This Core AddOn will do several things that are considered an improvement by most people:
-- Speed up loading times
-- Register events more efficiently.
-- Deal with all the event handling for all AzerPUG AddOns.
-- Deal with all the version control for all AzerPUG AddOns.  
+AzerPUG's Gromit Finder will help you track your summoned Swagsnout Gromit in Korthia. The fucker tends to run away and all you get is a message in your chat no one ever really sees. This AddOn will make that better. After you summoned your Swagsnout Gromit, the first Swagsnout Gromit you mouse over, will automatically get a Gay Diamon Target Marker assigned to it. Making it easier to track when he decides to go on a hike.
 
 # Bugs, Errors, Glitches and Requests.
-If you find any of the above, please do not hesitate to create a GitHub Issue here: ***GitHub Issues Link Here***  
+If you find any of the above, please do not hesitate to create a GitHub Issue here: https://github.com/AzerPUG/Gromit-Finder/issues  
 Or you can join our Discord and let us know in the AzerTech channel: http://www.azerpug.com/discord  
 Please note that our Discord Verification level prevents new people from talking/commenting/ranking in the first 10 minutes!
 
@@ -42,5 +31,5 @@ You can comission us to do some programming for you through Fiverr here: https:/
 If you care for any of our AddOns, please consider downloading them through either of the following two methods.  
 These two download methods are the only ones that actually support the authors that created them and their hard work!  
   
-CurseForge Website: ***CurseForge Link Here***  
+CurseForge Website: https://www.curseforge.com/wow/addons/azerpugs-gromit-finder/files  
 CurseForge Application: https://curseforge.overwolf.com/
